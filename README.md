@@ -21,7 +21,7 @@ that the US might be able to exploit
 ```
 
 - [ ] The link to the broader surveillance program, which was uncovered before the latest balloon was spotted last week
-- [ ] was first reported by the Washington Post
+- [x] was first reported by the Washington Post
 
  [ read more ](https://www.cnn.com/2023/02/07/politics/spy-balloon)
 ![image](https://user-images.githubusercontent.com/124771887/217617505-1be76c37-3f51-4e6e-b9af-eceac49ea079.png)
